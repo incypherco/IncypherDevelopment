@@ -1,0 +1,15 @@
+{
+  "name": "incypher-development-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js application for the IncypherDevelopment repository.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
